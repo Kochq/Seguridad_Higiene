@@ -1,0 +1,164 @@
+21/03/22
+
+Derecho y obligaciones:
+
+Cada trabajador debe velar tanto por su propia seguridad y salud en el trabajo como por la de aquellas personas a las que puedo afectar su actividad, de acuerdo con su formacion y con las instrucciones del empresario, a los trabajadores les corresponde los siguientes deberes:
+
+    • Usar adecuadamente las maquinas y herramientas, sustancias peligrosas, equipo de transporte, etc.
+    • Usar correctamente los medios y equipos de protección.
+    • Informar de forma inmediata a su supervisor a cerca de cualquier situación de riesgo, generando de este modo la interrupción de la actividad si esta ocasionando algun peligro.
+    • Contribuir al cumplimiento de las obligaciones establecidas en la empresa, con el fin de proteger la seguridad y la salud de los trabajadores.
+
+Concretamente a los trabajadores les corresponden los siguientes derechos:
+
+    • Ser informados sobre los riesgos de salud derivados de sus puestos de trabajos, las medidas de protección y prevencion asociados a dichos riesgos asi como las medidas a adoptar ante una situacion de emergencia
+    • Disponer de los equipoas de trabajo y medidas de protección individual adecuados para cada puesto.
+    • Disponer de las medidas de emergencia acordes al tamaño y actividad de la empresa.
+    • Disponer de las medidas de vigilancia y control de la salud en función de los riesgos
+
+21/04/22
+
+Quemaduras         >     Quemaduras
+Gases              >     Enfermedades respiratorias
+Riesgos oculares   >     Envenenamiento
+Electrocución      >     Muerte
+                   >                             
+ACCIDENTE          >     INCIDENTE
+
+Acciende: Algo que ocurre sin la intervención o intencion de una persona
+
+Incidente: Algo que ocurre intencionalmente por una persona,
+
+
+Prevención de riesgo laboral de montaje y mantenimiento:
+
+
+Resulta necesario elaborar un plan de prevencion de riesgos laborales en el que se analizan las normas de seguridad aplicables, los riesgos que pueden ser evitados y se elabore una relacion con los riesgos que no pueden ser evitados
+
+
+
+
+Reglas generales de actuacion para prevencion:
+
+
+    • Identificar los posibles riesgosy el nivel de peligrosidad del puesto de trabajo.
+    • Identificar las causas mas frecuentes de accidentes en la manipulacion de materiales y herramientas.
+    • Determinar las medidas de seguridad y proteccion que se deben adoptar en la ejecucion de tareas.
+    • Hacer uso de los materiales y equipos de proteccion.
+    • Utilizar los equipos y maquinas electricas respetando las normas de seguridad.
+    • Respetar las medidas preventivas, señalizacion, recomendaciones y prohibiciones de uso.
+    • Mantener el orden y la limpieza
+    • Llevar a cabo un adecuado mantenimiento de los equipos y materiales
+
+
+26/04/22
+
+Plan de prevencion de riesgos:
+
+Es un documento que debe dar cumplimiento a la normativa vigente dicho documento debe especificar:
+
+    • Normas de seguridad aplicables.
+    • Identificacion de riesgos laborales.
+    • Medidas tecnicas necesarias para evitar dichos riesgos.
+    • Valoracion de la eficacia de las medidas propuestas
+
+El objetivo basico de todo plan de prevencion es certificar que se cumpla los supuestos minimos de la ley de prevencion de riesgos laborales.
+Todo plan estara basado en un metodo de analisis que estime los niveles de riesgo.
+
+//////////////////////////////////////
+Ligeramente Dañino
+Dañino
+Extremadamente Dañino
+Posibilidad Baja
+Trivial
+Riesgo Tolerante
+Riesgo Moderado
+Posibilidad Media
+Riesgo Tolerante
+Riesgo Moderado
+Riesgo Importante
+Posibilidad Alta
+Riesgo Moderado
+Riesgo Importante
+Riesgo Intolerante
+
+Leimos una serie de ejemplos de los accidentes que puede tener un electricista, estos pueden clasificarse segun lo dañino que sean y la probabilidad de que ocurran.
+
+
+
+
+
+
+
+
+Coordinacion:
+
+Antes de realizar cualquier obra deberiamos tener el plan de prevencion de riesgos aprobado. Durante la obra el coordinador deberia realizar y desarrollar las siguientes funciones:
+
+    • Coordinar la aplicacion de los principios generales.
+    • Coordinar las actividades para garantizar que se apliquen de manera coherente y responsable la accion de prevenir.
+    • Coordinar las acciones y funciones de control.
+    • Ajustar las medidas necesarias para que solo las personas autorizadas ingresen a la obra.
+
+
+El riesgo Electrico:
+
+Dadas las instalaciones de automatismo industriales utilizan la electricidad para el correcto funcionamiento de todos sus componentes, es necesario tener en cuenta este factor en riesgo asi conocer y aplicar las medidas de seguridad necesarios a la hora de realizar trabajos de montaje y mantenimiento
+
+
+    • Contaco electrico: En personas y animales que pueden ser directo o indirecto.
+        ◦ Contacto directo: Contacto con los conductores activos o piezas metalicas de la instalacion.
+        ◦ Contacto indirecto: Contacto de las personas con partes metalicas que          accidentalmente se han puesto bajo tension (masa) como consecuencia de un defecto de aislamiento
+    • Incendio y explosiones: En materiales y equipos producidos por cortocircuitos, chispas y demas.
+
+
+Respuesta ante un accidente electrico: Primer auxilio para socorrer una persona que esta sufriendo una descarga electrica es necesario las pautas basicas.
+
+    • Nunca hay que tocar a la persona.
+    • Debe desconectarse la fuente de tension.
+    • Si no es posible desconectar, se separara a la persona de la instalacion electrica.
+    • Tras comprobar que el accidentado ya no se encuentra en contacto electrico, hay que avisar a los servicios de emergencia
+    • En caso de electrocucion por alta tension es necesario contactar con un espacialista que cuente con los medios de proteccion adecuados.
+
+Funcion de la puesta a tierra:
+
+La funcion de la puesta a tierra es redirigir la descarga para que sea el usuario no la reciba.
+
+Para redirigirla hay que colocar una jabalina.
+Esto puede realizarse de distintas formas segun la normativa del pais. En ciertos casos se puede llegar a utilizar sal para mejorar la conductividad.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Efectos de electricidad en el organismo:
+
+El choque electrico es el efecto resultante del paso de corriente electrica a traves del cuerpo humano.
+Las consecuencia dependen del valor de la intensidad, de la tension y del tiempo. Tambien influye la trayectoria que sigue la corriente por el cuerpo.
+Dependiendo de estos factores, los posibles efectos son:
+
+    • Pequeña percepcion, cosquilleo y ligeros calambres.
+    • Enrojecimiento de la piel.
+    • Contracciones mosculares que dificultan la respiracion.
+    • Alteracion del ritmo cardiaco.
+    • Caidas y golpes.
+    • Fibrilacion bentrilocular.
+    • Parada respiratoria.
+    • Quemaduras y hemorragias.
+    • Fallecimiento.
